@@ -1,1 +1,1 @@
-# Patika.dev Algoritma ve Veri Yapıları Modül Sonu Ödevleri
+## Patika.dev Algoritma ve Veri Yapıları Modül Sonu Ödevleri
