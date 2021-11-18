@@ -1,1 +1,1 @@
-# algorithms-and-data-structure
+# Patika.dev Algoritma ve Veri Yapıları Modül Sonu Ödevleri
